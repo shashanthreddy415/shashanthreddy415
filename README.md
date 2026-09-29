@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Shashanth Reddy Sudhula 👋
 
-<!--
-**shashanthreddy415/shashanthreddy415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | B.Tech 2026 Graduate
 
-Here are some ideas to get you started:
+I am an aspiring Data Analyst with a strong interest in turning data into meaningful insights and supporting data-driven business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Excel
+- SQL
+- Power BI
+- Python
+- Tableau
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+
+## 📊 Projects
+
+### Retail Sales Exploratory Data Analysis
+Analyzed retail sales data using Python, Pandas, Matplotlib and Seaborn to identify sales trends, customer segments, product performance and profitability patterns.
+
+### Credit Card Fraud Detection
+Worked on a machine learning project using Python and Streamlit to explore credit card transactions and detect fraudulent transactions using classification models.
+
+## 📈 Dashboard Experience
+
+- Excel – Superstore Sales Dashboard
+- Power BI – Finance Performance Dashboard
+- Tableau – Superstore Sales Dashboard
+
+## 🎓 Education
+
+**B.Tech – Computer Science and Engineering**  
+2022 – 2026
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/sudula-shashanth)
